@@ -19,7 +19,7 @@
 		"@webiny/serverless-cms-aws": "5.42.3"
 	},
 	"keywords": [
-		"aws+dynamodb"
+		"aws+dynamodb+elasticsearch"
 	],
 	"devDependencies": {
 		"@babel/cli": "7.26.4",
